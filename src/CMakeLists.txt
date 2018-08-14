@@ -1,0 +1,6 @@
+set(SOURCES
+    ${CMAKE_CURRENT_SOURCE_DIR}/AppInfo.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/debug.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Extensions.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Instance.cpp
+PARENT_SCOPE)
